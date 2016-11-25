@@ -2,7 +2,7 @@
 * @Author: root
 * @Date:   2016-03-06 20:49:24
 * @Last Modified by:   v4if
-* @Last Modified time: 2016-09-07 11:36:45
+* @Last Modified time: 2016-11-25 14:49:26
 */
 
 body {
@@ -10,7 +10,7 @@ body {
 	padding: 0;
 	margin: auto;
 	text-align: left;
-	font: 14px/1.5 'Microsoft YaHei',arial,tahoma,\5b8b\4f53,sans-serif;
+	font: 14px/1.5 'Helvetica Neue', 'STHeiti', 'Microsoft YaHei', Helvetica,Arial,sans-serif;
 	color: #333333;
 }
 
@@ -29,6 +29,11 @@ li {
 	padding: 0;
     border-bottom: 1px solid #ccc;
     list-style: none;
+}
+
+a {
+	color: #0088cc;
+	text-decoration: none;
 }
 
 #inner {
